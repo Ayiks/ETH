@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-wpdemo.archiwp.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
-wpdemo.archiwp.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_22f83f80a6b6aa98000d07017be97001	t_a7806eabe683bd7ab48e837caa46b1%7C%7C1684408529%7C%7C1684404929%7C%7C80395edd11592d1bcf0aa8719817262b
-wpdemo.archiwp.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	749b42fd2c1ceb3cc4da065cd98c3f30
-
